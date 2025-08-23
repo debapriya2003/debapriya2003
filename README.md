@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I'm currently working on building innovative web, app, and AI-based projects.<br>🤝 I'm looking to collaborate on full-stack development, digital marketing, and creative design.<br>🆘 I'm looking for help with scaling projects and advanced AI integration.<br>📚 I'm currently learning time series forecasting, system programming, and educational tech tools.<br>❓ Ask me about web development, SEO, app design, freelancing, or content writing.<br>🎉 Fun fact: I published a book titled Hypochondriac’s Bucket List on Google Play Books.
+💻 I'm currently working on building innovative web, app, and AI-based projects.<br>🤝 I'm looking to collaborate on full-stack development, AI/ML/RAG/GAN/Agentic AI and  and creative design.<br>🆘 I'm looking for help with scaling projects and advanced AI integration.<br>📚 I'm currently learning time series forecasting, system programming, and Machine Learning .<br>❓ Ask me about web development, SEO, app design, freelancing, or content writing and specially data Science .<br>🎉 Fun fact: I published a book titled Hypochondriac’s Bucket List on Google Play Books.
 
 
 ## 🌐 Socials:
